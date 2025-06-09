@@ -4,6 +4,25 @@
 Welcome to my project repository! This space showcases some of my work in **SQL, Power BI, and Tableau**, focused on practical data analysis and visualization. Below are summaries of each project included in this portfolio.
 
 ---
+# E-Commerce Sales & Profit Dashboard
+
+This Power BI project analyzes sales performance and profitability using the Superstore dataset.
+
+## 🚀 Features
+- Category & Sub-category sales and profit breakdown
+- Interactive filters for Region, Customer Segment
+- Monthly sales trend analysis
+- Custom KPIs (Sales, Profit, Orders)
+
+## 🛠 Tools Used
+- Power BI Desktop
+- Power Query Editor
+- DAX (Data Analysis Expressions)
+
+## 📈 Impact
+Helps businesses identify top-performing segments and monitor profitability trends.
+
+--
 
 ## 📦 Inventory Management – SQL Project
 
@@ -11,6 +30,7 @@ Welcome to my project repository! This space showcases some of my work in **SQL,
 **Description:**
 This project involves creating and managing an inventory database using SQL. I worked with multiple tables to perform tasks such as:
 
+* Creating Database Diagram
 * Creating and altering tables
 * Inserting and updating data
 * Joining tables to extract insights
